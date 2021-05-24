@@ -1,0 +1,2 @@
+D:\杨光文\算法导论\分治算法最近点对\test\Debug\test.exe
+D:\杨光文\算法导论\分治算法最近点对\test\Debug\test.pdb
